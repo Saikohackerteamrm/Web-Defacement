@@ -74,6 +74,6 @@ The code is a simple program in Python that attempts to upload a provided HTML f
 Tutorial video : https://drive.google.com/file/d/16I9DUXBTwUlg0n9z3Iy34mGCtNzh2j2n/view?usp=drivesdk
 
 
-***You can get a new version of this project named white-dav with many features to exploit webdav vulnerability. Click [here](https://github.com/WH1T3-E4GL3/white-dav) to go to the project.***
+***You can get a new version of this project named white-dav with many features to exploit webdav vulnerability. Click [here](http://saikohackerteamrm.free.nf) to go to the project.***
 
 
