@@ -43,7 +43,7 @@ _______________________________________
 
     apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && pip2 install requests && git clone https://github.com/Saikohackerteamrm/Web-Defacement && cd Web-Defacement && pip install -r requirements.txt && git pull && python S-H-T.py
   
-***Tutorial video : https://mega.nz/file/obgWGQJJ#Lk-JkEdFoIZVC07lpbRAFHRt3WayXDfPW27KuEDgCJE***
+***Tutorial video : https://drive.google.com/file/d/16I9DUXBTwUlg0n9z3Iy34mGCtNzh2j2n/view?usp=drivesdk
 
 Tool used for vulnerable website defacing
 
