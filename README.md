@@ -1,5 +1,5 @@
 # Web-Defacement
-![Blue Futuristic Technology Presentation](https://github.com/Saikohackerteamrm/Web-Defacement/blob/main/20250713_233744.jpg)
+![Blue Futuristic Technology Presentation]
 
 
 
