@@ -52,7 +52,7 @@ Tool used for vulnerable website defacing
 
 Telegram : https://t.me/rm7669
 
-Website: saikohackerteamrm.free.nf
+Website: http://saikohackerteamrm.free.nf
 
 
 # What the code does
