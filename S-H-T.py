@@ -47,6 +47,7 @@ banner = f"""
 //////////////////////////////////////////////////////////////////////
 
 """+reset+blue
+os.system("xdg-open https://www.facebook.com/profile.php?id=61551487702871")
 def animate():
     text = "Uploading your script to websites..."
     while True:
